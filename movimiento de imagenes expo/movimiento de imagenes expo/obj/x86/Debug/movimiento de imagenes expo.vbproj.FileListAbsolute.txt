@@ -1,0 +1,42 @@
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\bin\Debug\movimiento de imagenes expo.exe
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\bin\Debug\movimiento de imagenes expo.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\bin\Debug\movimiento de imagenes expo.xml
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\movimiento de imagenes expo.exe
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\movimiento de imagenes expo.xml
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\movimiento de imagenes expo.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\bin\Debug\yo\movimiento de imagenes expo.resources.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\WindowsApplication1.Form1.yo.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\yo\movimiento de imagenes expo.resources.dll
+C:\Users\mariangel\Downloads\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\movimiento de imagenes expo.exe
+C:\Users\mariangel\Downloads\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\movimiento de imagenes expo.xml
+C:\Users\mariangel\Downloads\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\movimiento de imagenes expo.pdb
+C:\Users\mariangel\Downloads\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\bin\Debug\movimiento de imagenes expo.exe
+C:\Users\mariangel\Downloads\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\bin\Debug\movimiento de imagenes expo.pdb
+C:\Users\mariangel\Downloads\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\bin\Debug\movimiento de imagenes expo.xml
+C:\Users\mariangel\Downloads\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\bin\Debug\yo\movimiento de imagenes expo.resources.dll
+C:\Users\mariangel\Downloads\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mariangel\Downloads\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\mariangel\Downloads\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\mariangel\Downloads\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\WindowsApplication1.Form1.yo.resources
+C:\Users\mariangel\Downloads\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mariangel\Downloads\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mariangel\Downloads\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\yo\movimiento de imagenes expo.resources.dll
+E:\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\movimiento de imagenes expo.exe
+E:\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\movimiento de imagenes expo.xml
+E:\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\movimiento de imagenes expo.pdb
+E:\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\bin\Debug\movimiento de imagenes expo.exe
+E:\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\bin\Debug\movimiento de imagenes expo.pdb
+E:\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\bin\Debug\movimiento de imagenes expo.xml
+E:\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\bin\Debug\yo\movimiento de imagenes expo.resources.dll
+E:\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\WindowsApplication1.Form1.yo.resources
+E:\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Visual Studio Expo\movimiento de imagenes expo\movimiento de imagenes expo\obj\x86\Debug\yo\movimiento de imagenes expo.resources.dll
